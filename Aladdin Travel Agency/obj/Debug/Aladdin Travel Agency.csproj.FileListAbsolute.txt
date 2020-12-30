@@ -1,0 +1,16 @@
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\bin\Debug\Aladdin Travel Agency.exe.config
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\bin\Debug\Aladdin Travel Agency.exe
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\bin\Debug\Aladdin Travel Agency.pdb
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin_Travel_Agency.Properties.Resources.resources
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin Travel Agency.csproj.GenerateResource.Cache
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin Travel Agency.exe
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin Travel Agency.pdb
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\bin\Debug\bin\Debug\db_agency.mdf
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\bin\Debug\bin\Debug\db_agency_log.ldf
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin Travel Agency.csprojResolveAssemblyReference.cache
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin_Travel_Agency.FrmLogin.resources
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin_Travel_Agency.FrmMain.resources
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency\Aladdin Travel Agency\obj\Debug\Aladdin_Travel_Agency.frmmasool.resources
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency1\Aladdin Travel Agency\bin\Debug\Aladdin Travel Agency.exe.config
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency1\Aladdin Travel Agency\obj\Debug\Aladdin Travel Agency.exe
+C:\Users\Ghazal\Desktop\Aladdin Travel Agency1\Aladdin Travel Agency\obj\Debug\Aladdin Travel Agency.pdb
